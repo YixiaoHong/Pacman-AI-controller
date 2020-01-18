@@ -5,7 +5,7 @@ An individual project from the course "Introduction to Artificial Intelligence".
 
 <img src="img/pacman.png">
 
-### See description.pdf for details, 
+### See "description.pdf" for details, 
 ### An example of using ReflexAgent with two monsters
 ```
 python pacman.py -p ReflexAgent -k 2
